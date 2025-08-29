@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "browser-echo-mcp": {
+      "command": "browser-echo-mcp",
+      "args": [
+        "--buffer=500"
+      ],
+      "env": {
+        "NODE_ENV": "development"
+      }
+    }
+  }
+}
